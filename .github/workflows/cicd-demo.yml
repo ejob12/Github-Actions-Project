@@ -20,7 +20,7 @@ jobs:
     - name: Build with Maven
       run: mvn compile
 
-  security-check:
+  security-check-1:
     runs-on: ubuntu-latest
     needs:  compile
 
