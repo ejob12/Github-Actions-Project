@@ -1,5 +1,5 @@
 ```yaml
-name: CI/CD Pipeline(04)
+name: CI/CD Pipeline(05)
 
 on:
   push:
